@@ -11,4 +11,17 @@ NullPointException 空指针
 source 源
 resource 资源
 generate 生成
+<<<<<<< HEAD
 duplicate 重复
+=======
+duplicate 重复
+extends 继承
+abstract 抽象的
+final 最终；不可变
+instanceof 判断对象的类型
+ClassCastException 类型转换异常
+format 格式
+date 日期
+data 数据
+random 随机数
+>>>>>>> c1acfad3030ec5164986bb9b5cf552d7436bd02a
